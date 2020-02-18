@@ -1,1 +1,1 @@
-# Garbage-Collectors-Performance
+We have 4 scenarios. A couple of programs in Java, C++ with same implementation. First couple is quicker in Java because garbage collector doesn't stress the Java program. Second couple C++ is quicker because Java program's structures has a bad locality. As a result garbage collector stresses Java and C++ is quicker.
